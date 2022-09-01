@@ -30,8 +30,6 @@ TABLE OF CONTENT ::
 --------------------------------------*/
 
 body {
-
-    overflow: hidden;
     direction: rtl;
     line-height: 1.6em;
     font: 16px 'Cairo', sans-serif;
