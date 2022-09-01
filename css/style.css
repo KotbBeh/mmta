@@ -366,14 +366,28 @@ a, input, select, textarea, button {
 }
 .info select{
     width: 50%;
+    
 }
-.subject{
+.nav-sub{
     padding: 50px 0;
+    background-color: #53448b;
+    color: #fff;
+    text-align: center;
 }
-tbody, td, tfoot, th, thead, tr {
-    border-color: inherit;
-    border-style: solid;
-    border-width: 1px;
+.data{
+    margin-top: 50px;
+}
+.data textarea{
+    width: 100%;
+    background-color: #F1F1F1;  
+}
+.data h5{
+    background-color: #53448b;
+    color: #fff;
+    padding: 5px;
+}
+.data a{
+    border: 1px solid #53448b;
 }
 /* only used for background overlay not needed for centering */
 
