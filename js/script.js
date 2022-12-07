@@ -103,7 +103,7 @@ function myFunction() {
   navigator.clipboard.writeText(copyText.value);
     
       // Alert the copied text
-  alert("Copied the text: " + "تم النسخ");
+  alert("تم نسخ المحتوي");
 }
 
 function windowHeight() {
