@@ -372,6 +372,16 @@ a, input, select, textarea, button {
     color: #fff;
     text-align: center;
 }
+.test-copy{
+   font-size: 12px;
+    font-weight: bold;
+    border-radius: 50px;
+    width: 100%;
+    margin-bottom: 10px;
+    background: #f00;
+    border: 2px dashed #fff;
+    color: #fff;
+}
 .data{
     margin-top: 50px;
 }
